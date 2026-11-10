@@ -86,7 +86,7 @@
  * no solution, and a pair at the beginning/end.
  */
 
-import java.util.Arrays;
+import java.util.Arrays.Medium;
 import java.util.HashMap;
 
 public class TwoSum {
