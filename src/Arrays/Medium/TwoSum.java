@@ -1,4 +1,4 @@
-/*
+package Arrays.Medium;/*
  * Problem: Two Sum | LeetCode 1
  * Topic: Arrays, HashMap, Two Pointers
  * Difficulty: Easy
@@ -86,7 +86,7 @@
  * no solution, and a pair at the beginning/end.
  */
 
-import java.util.Arrays.Medium;
+import java.util.Arrays;
 import java.util.HashMap;
 
 public class TwoSum {
